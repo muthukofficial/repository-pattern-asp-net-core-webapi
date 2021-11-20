@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Domain\" />
+    <None Remove="Models\" />
+    <None Remove="Services\" />
+    <None Remove="Persistence\" />
+    <None Remove="Persistence\Repositories\" />
+    <None Remove="Domain\Communication\" />
+    <None Remove="Domain\Repositories\" />
+    <None Remove="Domain\Services\" />
+    <None Remove="Microsoft.AspNetCore.Http.Abstractions" />
+    <None Remove="Microsoft.AspNetCore.Mvc.Abstractions" />
+    <None Remove="Microsoft.EntityFrameworkCore" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Domain\" />
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+    <Folder Include="Persistence\" />
+    <Folder Include="Persistence\Repositories\" />
+    <Folder Include="Domain\Communication\" />
+    <Folder Include="Domain\Repositories\" />
+    <Folder Include="Domain\Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.12" />
+  </ItemGroup>
+</Project>

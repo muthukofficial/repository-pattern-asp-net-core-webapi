@@ -1,0 +1,12 @@
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/bin/Debug/net5.0/API.DAL.deps.json
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/bin/Debug/net5.0/API.DAL.dll
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/bin/Debug/net5.0/API.DAL.pdb
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/obj/Debug/net5.0/API.DAL.csproj.AssemblyReference.cache
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/obj/Debug/net5.0/API.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/obj/Debug/net5.0/API.DAL.AssemblyInfoInputs.cache
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/obj/Debug/net5.0/API.DAL.AssemblyInfo.cs
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/obj/Debug/net5.0/API.DAL.csproj.CoreCompileInputs.cache
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/obj/Debug/net5.0/API.DAL.dll
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/obj/Debug/net5.0/API.DAL.pdb
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/obj/Debug/net5.0/ref/API.DAL.dll
+/Users/gtk/Desktop/github/repository-pattern-asp-net-core-webapi/API.DAL/bin/Debug/net5.0/ref/API.DAL.dll
